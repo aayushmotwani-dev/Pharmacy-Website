@@ -27,6 +27,3 @@ npm run dev
 
 The app runs at http://localhost:3000. Build with `npm run build`.
 
-## Notes
-
-The project was started in Google AI Studio and then edited by hand. The original prompt history is in `migrated_prompt_history/`.
